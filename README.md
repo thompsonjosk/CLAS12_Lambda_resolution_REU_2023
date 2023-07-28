@@ -5,3 +5,7 @@ This is the work I did as part of the Duke / TUNL 2023 REU program in Nuclear Ph
 I did it as a deep artifical neural network in Python with TensorFlow and Keras. It might work better using the ResNet architecture.
 
 It is somewhat limited running on a CPU since the reconstructed / Monte Carlo matching algorithm takes up a lot of computational power. It is probably limited to about a couple hundred thousand .hipo events on CPU. It would be good to run it on a GPU with higher amounts of training data. 
+
+'Machine Learning Framework' is the main file to work with that has everything in it. The other files are less necessary but had a few results and plots that might be worth looking at.
+
+Contact jthompson10@tulane.edu with questions.
